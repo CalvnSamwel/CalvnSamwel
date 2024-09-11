@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dynamic Geospatial and Remote Sensing Scientist with expertise in hydrology, environmental science, and data analysis.<br>I specialize in designing and integrating Geospatial and Remote sensing Solutions for Environmental and Water Resources Management
+Dynamic Geospatial and Remote Sensing Scientist with expertise in hydrology, environmental science, and data analysis.<br>I specialize in designing and integrating Geospatial and Remote sensing Solutions for Environmental and Water Resources Management.
 
 
 ## 🌐 Professional Profile:
